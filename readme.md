@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalayetha&label=Profile%20views&color=0e75b6&style=flat" alt="zalayetha" /> </p>
 
 
-- 🌱 I’m currently learning **Native Android,Laravel,Flutter**
+- 🌱 I’m currently learning **Native Android,Flutter,SwiftUI**
 
 - 👨‍💻 [https://zaghy.showwcase.com/](https://zaghy.showwcase.com/)
 
