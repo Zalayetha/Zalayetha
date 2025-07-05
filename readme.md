@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalayetha&label=Profile%20views&color=0e75b6&style=flat" alt="zalayetha" /> </p>
 
-- 👨‍💻 [https://zaghy.showwcase.com/](https://zaghy.showwcase.com/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
