@@ -7,7 +7,7 @@ Software Engineer with 2+ years of experience, experiencing in Mobile App Develo
 ## 🚀 What I'm Up To
 
 - 💻 Building Mobile Application with [Flutter](https://flutter.dev)
-- 🧭 Exploring Back-End Development with [Java Spring Boot](https://spring.io/projects/spring-boot)
+- 🧭 Exploring Back-End Development
 
 ## 🌐 Connect with me:
 
