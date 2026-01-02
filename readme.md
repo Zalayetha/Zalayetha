@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Software Engineer with 2+ years of experience, experiencing in Mobile App Development, Machine Learning, Backend Development. Skilled in building scalable mobile applications, building machine learning models, and building REST API. Experienced in team leadership, project management, and ensuring project success and team harmony. Passionate about building meaningful software and achieving impactful results.
+Software Developer with 2+ years of experience, experiencing in Mobile App Development, Machine Learning, Backend Development. Skilled in building scalable mobile applications, building machine learning models, and building REST API. Experienced in team leadership, project management, and ensuring project success and team harmony. Passionate about building meaningful software and achieving impactful results.
 
 ## 🚀 What I'm Up To
 
