@@ -6,8 +6,8 @@ Software Developer with 2+ years of experience, experiencing in Mobile App Devel
 
 ## 🚀 What I'm Up To
 
-- 💻 Building Mobile Application with [Flutter](https://flutter.dev)
-- 🧭 Exploring Back-End Development
+- 💻 Building Mobile Application with [Flutter](https://flutter.dev) and [React Native](https://reactnative.dev/)
+- 🧭 Exploring Service-Based Business
 
 ## 🌐 Connect with me:
 
