@@ -20,8 +20,6 @@ Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-blue.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-orange.svg?style=for-the-badge&logo=Swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 Developer Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -31,8 +29,6 @@ Libraries/Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-blue.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-orange.svg?style=for-the-badge&logo=Swift&logoColor=white)
-![Android](https://img.shields.io/badge/android-green.svg?style=for-the-badge&logo=android&logoColor=white)
 
 Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
