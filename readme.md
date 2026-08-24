@@ -5,7 +5,7 @@ Fullstack engineer who likes owning things end-to-end — mobile, backend, and t
  
 ## What I'm Up To
 - 🧭 Exploring the intersection of engineering and product
-- 🛠️ Working with `Laravel` `React` `Swift` `Python`
+- 🛠️ Working with `Laravel` `React` `Python`
 
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zaghy-zalayetha-sofjan/)
