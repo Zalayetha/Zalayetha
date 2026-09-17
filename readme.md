@@ -12,3 +12,5 @@ Fullstack engineer who likes owning things end-to-end — mobile, backend, and t
 # 📊 Github Statistics
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zalayetha&" alt="zalayetha" /></p>
  
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Zalayetha)
